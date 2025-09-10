@@ -24,6 +24,7 @@
 #define FUN  3
 
 &sk {
+    lazy;
     quick-release;
     release-after-ms = <1200>;
 };
